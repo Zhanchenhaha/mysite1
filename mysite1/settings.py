@@ -79,9 +79,17 @@ WSGI_APPLICATION = 'mysite1.wsgi.application'
 # https://docs.djangoproject.com/en/3.0/ref/settings/#databases
 
 DATABASES = {
+    # 'default': {
+    #     'ENGINE': 'django.db.backends.sqlite3',
+    #     'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
+    # }
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
+        'ENGINE': 'django.db.backends.mysql',
+        'NAME': 'django_mysql',
+        'USER': 'root',
+        'PASSWORD': '*',
+        'HOST': '127.0.0.1',
+        'POST': 3306
     }
 }
 
@@ -129,6 +137,6 @@ EMAIL_USE_SSL = True
 EMAIL_HOST = 'smtp.qq.com'
 EMAIL_PORT = 465
 EMAIL_HOST_USER = '1195241621@qq.com'
-EMAIL_HOST_PASSWORD = "desjzmthqrkcgeci"
+EMAIL_HOST_PASSWORD = "*"
 DEFAULT_FROM_EMAIL = EMAIL_HOST_USER
 
