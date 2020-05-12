@@ -11,7 +11,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f09b5ac3-6126-4346-85d0-3626e3599783" name="Default Changelist" comment="django2 by example 第一章和第二章内容代码">
+      <change afterPath="$PROJECT_DIR$/blog/templatetags/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/templates/base.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +41,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1beGGjRPdpGG7PvsOCg7n8X3Nbq" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -99,7 +103,7 @@
       <workItem from="1589186632756" duration="8835000" />
       <workItem from="1589239471074" duration="144000" />
       <workItem from="1589239892387" duration="20000" />
-      <workItem from="1589240004023" duration="15027000" />
+      <workItem from="1589240004023" duration="18285000" />
     </task>
     <task id="LOCAL-00001" summary="django2 by example 第一章和第二章内容代码">
       <created>1589255442059</created>
@@ -115,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589255694321</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="django2 by example 第一章和第二章内容代码">
+      <created>1589259696908</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1589259696908</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,6 +148,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="django2 by example 第一章和第二章内容代码" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="581" y="176" key="#Inspections" timestamp="1589262698865">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="581" y="176" key="#Inspections/0.0.1920.1032/1920.0.1920.1080@0.0.1920.1032" timestamp="1589262698865" />
     <state x="814" y="68" width="889" height="619" key="#Notifications" timestamp="1589252151309">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
@@ -145,14 +160,14 @@
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="409" y="159" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1032/1920.0.1920.1080@0.0.1920.1032" timestamp="1589239611554" />
-    <state x="454" y="13" width="1316" height="1005" key="CommitChangelistDialog2" timestamp="1589259242712">
+    <state x="454" y="151" width="1316" height="867" key="CommitChangelistDialog2" timestamp="1589261409417">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state x="454" y="13" width="1316" height="1005" key="CommitChangelistDialog2/0.0.1920.1032/1920.0.1920.1080@0.0.1920.1032" timestamp="1589259242712" />
-    <state x="335" y="80" key="DiffContextDialog" timestamp="1589255501353">
+    <state x="454" y="151" width="1316" height="867" key="CommitChangelistDialog2/0.0.1920.1032/1920.0.1920.1080@0.0.1920.1032" timestamp="1589261409417" />
+    <state x="335" y="80" key="DiffContextDialog" timestamp="1589260889059">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state x="335" y="80" key="DiffContextDialog/0.0.1920.1032/1920.0.1920.1080@0.0.1920.1032" timestamp="1589255501353" />
+    <state x="335" y="80" key="DiffContextDialog/0.0.1920.1032/1920.0.1920.1080@0.0.1920.1032" timestamp="1589260889059" />
     <state x="685" y="209" key="FileChooserDialogImpl" timestamp="1589252018123">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
@@ -165,13 +180,17 @@
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="335" y="56" key="SettingsEditor/0.0.1920.1032/1920.0.1920.1080@0.0.1920.1032" timestamp="1589254753423" />
-    <state x="451" y="181" key="Vcs.Push.Dialog.v2" timestamp="1589259355398">
+    <state x="451" y="181" key="Vcs.Push.Dialog.v2" timestamp="1589260590602">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state x="451" y="181" key="Vcs.Push.Dialog.v2/0.0.1920.1032/1920.0.1920.1080@0.0.1920.1032" timestamp="1589259355398" />
+    <state x="451" y="181" key="Vcs.Push.Dialog.v2/0.0.1920.1032/1920.0.1920.1080@0.0.1920.1032" timestamp="1589260590602" />
     <state x="953" y="183" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1589255061700">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="953" y="183" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1920.1032/1920.0.1920.1080@0.0.1920.1032" timestamp="1589255061700" />
+    <state x="539" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1589263191798">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="539" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1032/1920.0.1920.1080@0.0.1920.1032" timestamp="1589263191798" />
   </component>
 </project>
