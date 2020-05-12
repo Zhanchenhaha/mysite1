@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="f09b5ac3-6126-4346-85d0-3626e3599783" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -82,12 +91,35 @@
       <workItem from="1589186632756" duration="8835000" />
       <workItem from="1589239471074" duration="144000" />
       <workItem from="1589239892387" duration="20000" />
-      <workItem from="1589240004023" duration="12916000" />
+      <workItem from="1589240004023" duration="13639000" />
     </task>
+    <task id="LOCAL-00001" summary="django2 by example 第一章和第二章内容代码">
+      <created>1589255442059</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589255442060</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="django2 by example 第一章和第二章内容代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="django2 by example 第一章和第二章内容代码" />
   </component>
   <component name="WindowStateProjectService">
     <state x="814" y="68" width="889" height="619" key="#Notifications" timestamp="1589252151309">
@@ -98,6 +130,10 @@
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="409" y="159" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1032/1920.0.1920.1080@0.0.1920.1032" timestamp="1589239611554" />
+    <state x="454" y="13" width="1316" height="1005" key="CommitChangelistDialog2" timestamp="1589255319819">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="454" y="13" width="1316" height="1005" key="CommitChangelistDialog2/0.0.1920.1032/1920.0.1920.1080@0.0.1920.1032" timestamp="1589255319819" />
     <state x="685" y="209" key="FileChooserDialogImpl" timestamp="1589252018123">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
@@ -110,5 +146,9 @@
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="335" y="56" key="SettingsEditor/0.0.1920.1032/1920.0.1920.1080@0.0.1920.1032" timestamp="1589254753423" />
+    <state x="953" y="183" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1589255061700">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="953" y="183" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1920.1032/1920.0.1920.1080@0.0.1920.1032" timestamp="1589255061700" />
   </component>
 </project>
