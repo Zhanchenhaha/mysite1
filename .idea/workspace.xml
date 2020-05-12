@@ -10,12 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f09b5ac3-6126-4346-85d0-3626e3599783" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite1/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite1/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite1/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite1/urls.py" afterDir="false" />
-    </list>
+    <list default="true" id="f09b5ac3-6126-4346-85d0-3626e3599783" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -104,7 +99,7 @@
       <workItem from="1589186632756" duration="8835000" />
       <workItem from="1589239471074" duration="144000" />
       <workItem from="1589239892387" duration="20000" />
-      <workItem from="1589240004023" duration="20280000" />
+      <workItem from="1589240004023" duration="20530000" />
     </task>
     <task id="LOCAL-00001" summary="django2 by example 第一章和第二章内容代码">
       <created>1589255442059</created>
@@ -141,7 +136,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589264053296</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="创建站点地图">
+      <created>1589271528514</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1589271528514</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -162,7 +164,8 @@
     <MESSAGE value="django2 by example 第一章和第二章内容代码" />
     <MESSAGE value="自定义模板标签" />
     <MESSAGE value="自定义模板过滤器" />
-    <option name="LAST_COMMIT_MESSAGE" value="自定义模板过滤器" />
+    <MESSAGE value="创建站点地图" />
+    <option name="LAST_COMMIT_MESSAGE" value="创建站点地图" />
   </component>
   <component name="WindowStateProjectService">
     <state x="581" y="176" key="#Inspections" timestamp="1589262698865">
@@ -177,10 +180,10 @@
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="409" y="159" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1032/1920.0.1920.1080@0.0.1920.1032" timestamp="1589239611554" />
-    <state x="454" y="151" width="1316" height="867" key="CommitChangelistDialog2" timestamp="1589264052134">
+    <state x="454" y="151" width="1316" height="867" key="CommitChangelistDialog2" timestamp="1589271527441">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state x="454" y="151" width="1316" height="867" key="CommitChangelistDialog2/0.0.1920.1032/1920.0.1920.1080@0.0.1920.1032" timestamp="1589264052134" />
+    <state x="454" y="151" width="1316" height="867" key="CommitChangelistDialog2/0.0.1920.1032/1920.0.1920.1080@0.0.1920.1032" timestamp="1589271527441" />
     <state x="335" y="80" key="DiffContextDialog" timestamp="1589260889059">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
