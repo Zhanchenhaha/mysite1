@@ -10,7 +10,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f09b5ac3-6126-4346-85d0-3626e3599783" name="Default Changelist" comment="" />
+    <list default="true" id="f09b5ac3-6126-4346-85d0-3626e3599783" name="Default Changelist" comment="django2 by example 第一章和第二章内容代码">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,6 +30,12 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1beGGjRPdpGG7PvsOCg7n8X3Nbq" />
@@ -91,7 +99,7 @@
       <workItem from="1589186632756" duration="8835000" />
       <workItem from="1589239471074" duration="144000" />
       <workItem from="1589239892387" duration="20000" />
-      <workItem from="1589240004023" duration="13639000" />
+      <workItem from="1589240004023" duration="15027000" />
     </task>
     <task id="LOCAL-00001" summary="django2 by example 第一章和第二章内容代码">
       <created>1589255442059</created>
@@ -100,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589255442060</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="django2 by example 第一章和第二章内容代码">
+      <created>1589255694321</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1589255694321</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -130,22 +145,30 @@
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="409" y="159" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1032/1920.0.1920.1080@0.0.1920.1032" timestamp="1589239611554" />
-    <state x="454" y="13" width="1316" height="1005" key="CommitChangelistDialog2" timestamp="1589255319819">
+    <state x="454" y="13" width="1316" height="1005" key="CommitChangelistDialog2" timestamp="1589259242712">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state x="454" y="13" width="1316" height="1005" key="CommitChangelistDialog2/0.0.1920.1032/1920.0.1920.1080@0.0.1920.1032" timestamp="1589255319819" />
+    <state x="454" y="13" width="1316" height="1005" key="CommitChangelistDialog2/0.0.1920.1032/1920.0.1920.1080@0.0.1920.1032" timestamp="1589259242712" />
+    <state x="335" y="80" key="DiffContextDialog" timestamp="1589255501353">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="335" y="80" key="DiffContextDialog/0.0.1920.1032/1920.0.1920.1080@0.0.1920.1032" timestamp="1589255501353" />
     <state x="685" y="209" key="FileChooserDialogImpl" timestamp="1589252018123">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="685" y="209" key="FileChooserDialogImpl/0.0.1920.1032/1920.0.1920.1080@0.0.1920.1032" timestamp="1589252018123" />
-    <state x="800" y="387" key="Github.ShareDialog" timestamp="1589252625885">
+    <state x="800" y="387" key="Github.ShareDialog" timestamp="1589255639218">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state x="800" y="387" key="Github.ShareDialog/0.0.1920.1032/1920.0.1920.1080@0.0.1920.1032" timestamp="1589252625885" />
+    <state x="800" y="387" key="Github.ShareDialog/0.0.1920.1032/1920.0.1920.1080@0.0.1920.1032" timestamp="1589255639218" />
     <state x="335" y="56" key="SettingsEditor" timestamp="1589254753423">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="335" y="56" key="SettingsEditor/0.0.1920.1032/1920.0.1920.1080@0.0.1920.1032" timestamp="1589254753423" />
+    <state x="451" y="181" key="Vcs.Push.Dialog.v2" timestamp="1589259355398">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="451" y="181" key="Vcs.Push.Dialog.v2/0.0.1920.1032/1920.0.1920.1080@0.0.1920.1032" timestamp="1589259355398" />
     <state x="953" y="183" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1589255061700">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
